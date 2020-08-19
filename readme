@@ -1,0 +1,27 @@
+-> Need personal account data 
+
+UserData.py:
+#spotify client id
+spotyId =               
+#spotify token
+spotyToken =  
+
+
+client_secret.json:   #google account,api information
+{
+  "web": {
+    "client_id": "",
+    "client_secret": "",
+    "redirect_uris": "",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "YOUR_API_KEY": ""
+  }
+}
+
+inspired by this video:
+https://www.youtube.com/watch?v=7J_qcttfnJA&t=213s
+
+->Future versions
+Stop creating an playlist every time
+User friendly stuff
